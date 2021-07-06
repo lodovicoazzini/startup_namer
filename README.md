@@ -2,6 +2,10 @@
 
 A new Flutter project.
 
+## My edits
+
+In this CodeLab I am using widgets inheritance to access a shared state across different views.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
